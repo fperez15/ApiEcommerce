@@ -161,3 +161,4 @@ C:\Users\ferna\OneDrive\Escritorio\Francis\cursos\DotNET\ApiEcommerce\ApiEcommer
 C:\Users\ferna\OneDrive\Escritorio\Francis\cursos\DotNET\ApiEcommerce\ApiEcommerce\obj\Debug\net9.0\ApiEcommerce.pdb
 C:\Users\ferna\OneDrive\Escritorio\Francis\cursos\DotNET\ApiEcommerce\ApiEcommerce\obj\Debug\net9.0\ApiEcommerce.genruntimeconfig.cache
 C:\Users\ferna\OneDrive\Escritorio\Francis\cursos\DotNET\ApiEcommerce\ApiEcommerce\obj\Debug\net9.0\ref\ApiEcommerce.dll
+C:\Users\ferna\OneDrive\Escritorio\Francis\cursos\DotNET\ApiEcommerce\ApiEcommerce\bin\Debug\net9.0\AutoMapper.dll
